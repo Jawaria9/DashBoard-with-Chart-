@@ -64,7 +64,7 @@ it improves your the coding skills.It Helps in deep understanding of React chart
 ## Website Demo
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/Jawaria9/freelancer_website_template/blob/main/recording.gif">
+  <img width="800" height="400" src="https://github.com/Jawaria9/DashBoard-with-Chart-/blob/main/recording.gif">
 </p>
 
 
